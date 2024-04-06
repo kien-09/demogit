@@ -1,0 +1,2 @@
+git init : Khởi tạo local repository
+git add < tên-file> , git add .: Đưa các thay đổi của file vào trong vùng nh staging area
